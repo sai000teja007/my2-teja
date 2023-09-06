@@ -14,3 +14,14 @@ I adore this Texas spot for its **unique charm** and character. It's where the h
 * Taco 
 
 [Link to MyStats](MyStats.md)
+
+-----
+## TABLE
+Participating in sports is a great way to meet new people, get healthy, and generally enhance wellbeing. It's also a great way to keep active. For those looking to experience something new and exciting, we advise the following four sports. Each sport offers unique benefits and experiences while catering to a range of interests and fitness levels.
+
+|Sports name|Recommendation Reasons	|Weekly Time |
+|:---:|:---:|:---:|
+|Tennis|Fun, social, outdoor activity.|3-5 hours|
+|Rock Climbing|	Thrilling, builds strength and confidence.|	4-6 hours|
+|Swimming|	Low-impact, excellent for cardiovascular health.|	2-4 hours|
+Martial Arts|	Self-defense skills, mental discipline, confidence.|	3-6 hours|
