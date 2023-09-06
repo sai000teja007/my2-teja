@@ -12,3 +12,5 @@ I adore this Texas spot for its **unique charm** and character. It's where the h
 * Buffalo wild wings
 * Chicken-fried steak
 * Taco 
+
+[Link to MyStats](MyStats.md)
