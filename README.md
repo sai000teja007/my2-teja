@@ -25,3 +25,8 @@ Participating in sports is a great way to meet new people, get healthy, and gene
 |Rock Climbing|	Thrilling, builds strength and confidence.|	4-6 hours|
 |Swimming|	Low-impact, excellent for cardiovascular health.|	2-4 hours|
 Martial Arts|	Self-defense skills, mental discipline, confidence.|	3-6 hours|
+----
+ ## Pithy Quotes
+ >The only true wisdom is in knowing you know nothing. -*Socrates*<br>
+ >The pursuit of science is a never-ending journey into the unknown, fueled by curiosity and guided by reason. - *Neil Armstrong*
+
