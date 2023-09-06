@@ -29,4 +29,25 @@ Martial Arts|	Self-defense skills, mental discipline, confidence.|	3-6 hours|
  ## Pithy Quotes
  >The only true wisdom is in knowing you know nothing. -*Socrates*<br>
  >The pursuit of science is a never-ending journey into the unknown, fueled by curiosity and guided by reason. - *Neil Armstrong*
+ ----
+ ## Code Fencing
+ >Embedding quicktime video
 
+ Stock overflow link: <https://stackoverflow.com/questions/7900393/embedding-quicktime-video-in-qml>
+```
+<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"
+       codebase="http://www.apple.com/qtactivex/qtplugin.cab"
+       width="200" height="16">
+ <param name="src" value="movie.mov" />
+ <param name="autoplay" value="true" />
+ <param name="pluginspage" value="http://www.apple.com/quicktime/download/" />
+ <param name="controller" value="true" />
+ <!--[if !IE]> <-->
+   <object data="movie.mov" width="200" height="16" type="video/quicktime">
+     <param name="pluginurl" value="http://www.apple.com/quicktime/download/" />
+     <param name="controller" value="true" />
+   </object>
+ <!--> <![endif]-->
+</object>
+```
+CSS quick link: <https://css-tricks.com/snippets/html/embedding-quicktime/>
