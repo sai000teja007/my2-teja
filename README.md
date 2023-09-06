@@ -6,4 +6,9 @@ I adore this Texas spot for its **unique charm** and character. It's where the h
 # Activites i have done in Texas 
 1. I went to many restaurants 
 2. I visited sun set view in Texas 
-3. I went to national zoo park in Texas  
+3. I went to national zoo park in Texas 
+
+* Biryani
+* Buffalo wild wings
+* Chicken-fried steak
+* Taco 
